@@ -31,6 +31,16 @@ SKINALYZER is a smart skin health analysis tool that uses Convolutional Neural N
 
 ---
 
+# Screenshots
+
+![Screenshot 2025-06-28 161959](https://github.com/user-attachments/assets/de13c79d-f39a-44eb-97fa-70e397a636a7)
+
+![Screenshot 2025-06-28 162042](https://github.com/user-attachments/assets/b5fa9e08-87b7-413e-a094-d100172ab747)
+
+![Screenshot 2025-06-28 162339](https://github.com/user-attachments/assets/d310246d-07a0-4c1e-8859-1386301567ad)
+
+---
+
 ## 💡 How It Works
 
 1. *Upload an Image:* The user uploads a clear image of the skin.
